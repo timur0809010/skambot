@@ -216,8 +216,8 @@ def profile(message):
 
 
     process_referral(user_id, db)
-    with open("profile.jpg", "rb") as photo:
-        bot.send_photo(user_id, photo, caption=text, reply_markup=markup, parse_mode="Markdown")
+    bot.send_message(user_id, text, reply_markup=markup, parse_mode="Markdown")
+
 
 @bot.message_handler(commands=['addpromo'])
 def add_promo(message):
