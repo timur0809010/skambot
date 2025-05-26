@@ -1,0 +1,194 @@
+{
+    "8059249045": {
+        "balance": 90.0,
+        "referrals": [
+            "5803309981",
+            "7269569056",
+            "7961635952",
+            "7193171915",
+            "5720740699",
+            "7651088279"
+        ]
+    },
+    "7550321007": {
+        "balance": 0,
+        "referrals": [],
+        "pending_referral": "8059249045"
+    },
+    "5803309981": {
+        "balance": 15,
+        "referrals": [
+            "7132055893"
+        ]
+    },
+    "7132055893": {
+        "balance": 0,
+        "referrals": []
+    },
+    "7193171915": {
+        "balance": 0,
+        "referrals": []
+    },
+    "7961635952": {
+        "balance": 0,
+        "referrals": [],
+        "pending_referral": "8059249045"
+    },
+    "7269569056": {
+        "balance": 0,
+        "referrals": []
+    },
+    "7756786231": {
+        "balance": 0,
+        "referrals": []
+    },
+    "7692924650": {
+        "balance": 0,
+        "referrals": []
+    },
+    "6621127267": {
+        "balance": 0,
+        "referrals": [],
+        "pending_referral": "8059249045"
+    },
+    "7289101564": {
+        "balance": 0,
+        "referrals": []
+    },
+    "5639557621": {
+        "balance": 0,
+        "referrals": []
+    },
+    "6611735092": {
+        "balance": 0,
+        "referrals": []
+    },
+    "7653624534": {
+        "balance": 0,
+        "referrals": []
+    },
+    "6295166022": {
+        "balance": 15,
+        "referrals": [
+            "6845255190"
+        ]
+    },
+    "6845255190": {
+        "balance": 0,
+        "referrals": []
+    },
+    "7417463806": {
+        "balance": 0,
+        "referrals": [],
+        "pending_referral": "7653624534"
+    },
+    "7200190577": {
+        "balance": 0,
+        "referrals": [],
+        "pending_referral": "7653624534"
+    },
+    "1673983689": {
+        "balance": 0,
+        "referrals": [],
+        "pending_referral": "7653624534"
+    },
+    "5217369414": {
+        "balance": 0,
+        "referrals": [],
+        "pending_referral": "7653624534"
+    },
+    "7710095067": {
+        "balance": 0,
+        "referrals": [],
+        "pending_referral": "7653624534"
+    },
+    "5720740699": {
+        "balance": 0,
+        "referrals": []
+    },
+    "5603138587": {
+        "balance": 15,
+        "referrals": [
+            "7514336920"
+        ]
+    },
+    "7514336920": {
+        "balance": 0,
+        "referrals": []
+    },
+    "7531561503": {
+        "balance": 0,
+        "referrals": []
+    },
+    "5737372454": {
+        "balance": 0,
+        "referrals": []
+    },
+    "5994851548": {
+        "balance": 0,
+        "referrals": [],
+        "pending_referral": "8059249045"
+    },
+    "1935636735": {
+        "balance": 0,
+        "referrals": []
+    },
+    "417349327": {
+        "balance": 0,
+        "referrals": []
+    },
+    "5044192618": {
+        "balance": 0,
+        "referrals": [],
+        "pending_referral": "8059249045"
+    },
+    "1456785024": {
+        "balance": 0,
+        "referrals": [],
+        "pending_referral": "8059249045"
+    },
+    "6113457111": {
+        "balance": 0,
+        "referrals": [],
+        "pending_referral": "8059249045"
+    },
+    "6361579521": {
+        "balance": 0,
+        "referrals": []
+    },
+    "8183683106": {
+        "balance": 0,
+        "referrals": [],
+        "pending_referral": "8059249045"
+    },
+    "5803443972": {
+        "balance": 0,
+        "referrals": [],
+        "pending_referral": "8059249045"
+    },
+    "7445465211": {
+        "balance": 0,
+        "referrals": [],
+        "pending_referral": "8059249045"
+    },
+    "672216353": {
+        "balance": 0,
+        "referrals": [],
+        "pending_referral": "8059249045"
+    },
+    "7651088279": {
+        "balance": 15,
+        "referrals": [
+            "7392288095"
+        ]
+    },
+    "1399064855": {
+        "balance": 0,
+        "referrals": [],
+        "pending_referral": "8059249045"
+    },
+    "7392288095": {
+        "balance": 0,
+        "referrals": []
+    }
+}
